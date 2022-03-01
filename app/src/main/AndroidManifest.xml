@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyHome6">
         <activity
-            android:name=".MainActivity"
+            android:name=".NotesActivityList"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
